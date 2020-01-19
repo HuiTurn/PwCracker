@@ -1,0 +1,17 @@
+[1433][mssql] host: 106.54.119.193   login: sa   password: 1qaz@WSX
+[1433][mssql] host: 171.103.138.62   login: sa   password: a
+[1433][mssql] host: 202.133.72.70   login: sa   password: a
+[1433][mssql] host: 195.142.110.228   login: sa   password: 11
+[1433][mssql] host: 176.103.75.20   login: sa   password: Pa$$w0rd
+[1433][mssql] host: 187.66.146.251   login: sa   password: masterkey
+[1433][mssql] host: 103.233.65.71   login: sa   password: sa1
+[1433][mssql] host: 176.100.77.148   login: sa   password: 222222
+[1433][mssql] host: 43.240.6.106   login: sa   password: abcd@1234
+[1433][mssql] host: 121.6.143.141   login: sa   password: ferrari
+[1433][mssql] host: 15.206.158.225   login: sa   password: sa@123
+[1433][mssql] host: 51.211.161.199   login: sa   password: sa@123
+[1433][mssql] host: 223.29.205.114   login: sa   password: sa@123
+[1433][mssql] host: 202.61.49.51   login: sa   password: p@ssw0rd
+[1433][mssql] host: 203.151.214.10   login: sa   password: Passw0rd
+[1433][mssql] host: 37.224.49.127   login: sa
+[1433][mssql] host: 203.151.214.10   login: sa   password: Passw0rd
